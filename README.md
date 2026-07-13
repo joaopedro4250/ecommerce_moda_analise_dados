@@ -6,7 +6,7 @@ Projeto de análise de dados simulando um cenário real de e-commerce de moda, c
 
  Dashboard
 
-![Dashboard E-commerce Moda](analise-ecommerce-moda/powerbi/dashboard_ecommerce_moda.png)
+![Dashboard E-commerce Moda](analise-ecommerce-moda/powerbi/dashboard_ecommercer_moda.png)
 
 ---
 
